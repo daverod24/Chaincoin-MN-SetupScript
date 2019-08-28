@@ -1,7 +1,20 @@
 CHC Masternode Installation Instructions
 -----------------------------------
 
-Please create a new VPS using 64 bit Ubuntu 14.04
+Please create a new using 64 bit Ubuntu 18.04
+
+To do
+-----------------------
+
+- ansible playbook role
+- docs in spanish
+- vagrant with docker
+- vagrant with lxd
+- test with molecule
+- test with travisCI
+- test with centos
+
+
 
 After, please login as root, and create a new user.  Give that new user sudo rights
 
